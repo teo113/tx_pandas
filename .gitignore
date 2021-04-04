@@ -191,8 +191,6 @@ venv/
 *.iws
 *.xyzrgb
 *.ply
-*.csv
-*.txt
 *.iml
 *.pyc
 *.dbf
