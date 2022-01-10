@@ -4,6 +4,7 @@
 import pandas as pd
 import numpy as np
 
+
 csv_file = r'data/pandas_locs.csv'
 
 # use pandas to read a csv file in as a data frame (df)
